@@ -1,0 +1,49 @@
+{
+    "employees": [
+      {
+        "id": "1",
+        "name": "John Doe",
+        "dept_id" : "1",
+        "computer_id": "1"
+      },
+      {
+        "id": "2",
+        "name": "Jane Bush",
+        "dept_id" : "2",
+        "computer_id": "2"
+      },
+      {
+        "id": "3",
+        "name": "Jimmy Johnson",
+        "dept_id" : "1",
+        "computer_id": "3"
+      }
+    ],
+    "departments": [
+      {
+        "id": "1",
+        "name": "IT"
+      },
+      {
+        "id": "2",
+        "name": "Finance"
+      }
+    ],
+    "computers": [
+      {
+        "id": "1",
+        "name": "IT-John",
+        "model": "Apple"
+      },
+      {
+        "id": "2",
+        "name": "FIN-Jane",
+        "model": "PC"
+      },
+      {
+        "id": "3",
+        "name": "IT-Jimmy",
+        "model": "PC"
+      }
+    ]
+  }
