@@ -33,17 +33,17 @@
       {
         "id": "1",
         "name": "IT-John",
-        "model": "Apple"
+        "model": "Apple Macbook Pro"
       },
       {
         "id": "2",
         "name": "FIN-Jane",
-        "model": "PC"
+        "model": "Dell Latitude E7290"
       },
       {
         "id": "3",
         "name": "IT-Jimmy",
-        "model": "PC"
+        "model": "Dell Optiplex 7040"
       }
     ]
   }
